@@ -13,4 +13,5 @@ You will also see any lint errors in the console.
 -----------------------------------------------------------------------------
 
 App was created using: React, Youtube API.<br>
+For styling used: Semantic UI <br>
 You can look at this app: https://fast-crag-63312.herokuapp.com/
