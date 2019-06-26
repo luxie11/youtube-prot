@@ -12,5 +12,5 @@ You will also see any lint errors in the console.
 
 -----------------------------------------------------------------------------
 
-App was created using: React, Youtube API.
+App was created using: React, Youtube API.<br>
 You can look at this app: https://fast-crag-63312.herokuapp.com/
